@@ -1,2 +1,2 @@
 # machine-learning
-Test projects for IA
+Test projects and guides
